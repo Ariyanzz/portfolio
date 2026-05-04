@@ -1,4 +1,4 @@
-# 🚀 Developer Portfolio — Alex Johnson
+# 🚀 Developer Portfolio — Ariyan Gupta
 
 A modern, fully responsive developer portfolio built with **React 18**, **Framer Motion**, and **EmailJS**.
 
@@ -55,7 +55,7 @@ export const PERSONAL = {
   location: "Your City",
   githubUrl: "https://github.com/yourhandle",
   linkedinUrl: "https://linkedin.com/in/yourhandle",
-  resumeUrl: "/resume.pdf",   // Place resume.pdf in /public
+  resumeUrl: "/resume.pdf",  
 };
 ```
 
